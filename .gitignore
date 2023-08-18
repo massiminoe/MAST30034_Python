@@ -119,3 +119,6 @@ dmypy.json
 
 .DS_Store
 .vscode/settings.json
+
+
+/explo_data
